@@ -10,3 +10,4 @@
 ![scl9](https://github.com/shahriar00/SchoolManagementSystem/assets/70763173/b90bf55e-1d9d-4e41-bcf9-79bfc9c0975c)
 ![scl10](https://github.com/shahriar00/SchoolManagementSystem/assets/70763173/d8e6d1ba-6fbe-4f5d-b985-b48416129425)
 ![scl11](https://github.com/shahriar00/SchoolManagementSystem/assets/70763173/1b519508-b02b-4c6e-aad9-c040f25aa4cf)
+![scl12](https://github.com/shahriar00/SchoolManagementSystem/assets/70763173/ab5265bf-6122-4597-adaa-0b0e73747d1b)
